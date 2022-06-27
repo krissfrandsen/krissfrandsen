@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @krissfrandsen
-- 👀 I’m interested in muay thai, anime, new software, technology,cryptocurrency, animation, UI interfaces and React.
-- 🌱 I’m currently learning muay thai, kimchi, redux and C#.
-- 💞️ I’m looking to collaborate on cool projects.
+- 👀 I’m interested in muay thai, anime, watching series, animation, UI interfaces and Vue.
+- 🌱 I’m currently learning to be mindfull, enjoy life, be with my kids and fill their love tanks, collaboration and Vue 3.
 - 📫 How to reach me www.linkedin/krissfrandsen or at krissfrandsen@gmail.com
 
 <!---
