@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krissfrandsen
-- 👀 I’m interested in muay thai, anime, watching series, animation, UI interfaces and Vue.
-- 🌱 I’m currently learning to be mindfull, enjoy life, be with my kids and fill their love tanks, collaboration and Vue 3.
+- 👀 I’m interested in muay thai, anime, watching series, reading fantasy book, and UI interfaces.
+- 🌱 I’m currently learning algorithm and data structure.
 - 📫 How to reach me www.linkedin/krissfrandsen or at krissfrandsen@gmail.com
 
 <!---
